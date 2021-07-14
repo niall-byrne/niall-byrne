@@ -1,5 +1,85 @@
-Hey, I'm Niall!  I live and work in Toronto, Ontario.
+Hi, my name is Niall Byrne.<br/>
+I'm a software developer interested in continuous improvement.
 
-- Interested in Web Development, Systems Engineering, and Automation 
-- Currently studying Kubernetes, CI/CD best practices and Express
-- Feel free to say "Hi": niall@niallbyrne.ca
+### Skills
+
+- Python Development
+- Systems Design and Operation
+- Cloud Systems Management (AWS, GCP, Terraform, Ansible)
+- Javascript, TypeScript, Web Development
+
+### Interests / Studies
+
+- Golang
+- A dash of ML/AI
+- Music
+- Korean
+
+### Recent Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/niall-byrne/python-in-a-box" target="_blank">
+        Python in a Box
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/niall-byrne/python-in-a-box" target="_blank">
+        <img alt="Guillaume Bolduc on Unsplash" src="./content/images/project.pib.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        Python [3.7/3.8/3.9] dockerized development environment. <br>
+        Extensive CI/CD boiler plate to kickstart new Python projects quickly.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/niall-byrne/ansible-workbench" target="_blank">
+        Ansible Workbench
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/niall-byrne/ansible-workbench" target="_blank">
+        <img alt="Tekton on Unsplash" src="./content/images/project.awb.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        Ansible role development environment. <br>
+        Extensive CI/CD boilerplate with Molecule testing to develop new Ansible roles quickly.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
+        Mac Maker
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
+        <img alt="Philipp Katzenberger on Unsplash" src="./content/images/project.macmaker.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        A configuration tool for OSX machines. <br>
+        Takes that feeling of dread out of a new system install.
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Location
+
+Toronto, Ontario, Canada
+
+### Contact
+
+[![LinkedIn Profile](./content/images/icon.linkedin.jpeg)](https://www.linkedin.com/in/byrnen/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Email](./content/images/icon.email.jpeg)](https://docs.google.com/forms/d/e/1FAIpQLSfn-XW5zF0zz8v7DzO_joowbh97ZOKhZ0pdfhkPzE0-cihIew/viewform)
+
+<img src="https://www.google-analytics.com/collect?v=1&tid=UA-202418502-1&cid=555&aip=1&t=event&ec=profile&ea=view&dp=profile&dt=version1">
