@@ -20,6 +20,24 @@ I'm a software developer interested in continuous improvement.
 <table>
   <tr>
     <td>
+      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
+        Pi Portal
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
+        <img alt="Matteus Silva on Pexels" src="./content/images/project.pi_portal.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        Integrates with Slack, and Logz.io to notify you when your doors open or close. <br>
+        Records motion activated videos with a USB webcam, and sends them to you.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Music-Metadata-Analysis/mla" target="_blank">
         Music Listening Analytics
       </a>
