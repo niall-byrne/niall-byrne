@@ -74,24 +74,6 @@ I'm a software developer interested in continuous improvement.
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/niall-byrne/ansible-workbench" target="_blank">
-        Ansible Workbench
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/niall-byrne/ansible-workbench" target="_blank">
-        <img alt="Tekton on Unsplash" src="./content/images/project.awb.jpg" width="100"/>
-      </a>
-    </td>
-    <td>
-      <p>    
-        Ansible role development environment. <br>
-        Extensive CI/CD boilerplate with Molecule testing to develop new Ansible roles quickly.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
         Mac Maker
       </a>
