@@ -53,25 +53,7 @@ I'm a software developer interested in continuous improvement.
         Leverages last.fm to create interactive charts.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/niall-byrne/python-in-a-box" target="_blank">
-        Python in a Box
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/niall-byrne/python-in-a-box" target="_blank">
-        <img alt="Guillaume Bolduc on Unsplash" src="./content/images/project.pib.jpg" width="100"/>
-      </a>
-    </td>
-    <td>
-      <p>    
-        Python [3.7/3.8/3.9] dockerized development environment. <br>
-        Extensive CI/CD boiler plate to kickstart new Python projects quickly.
-      </p>
-    </td>
-  </tr>
+  </tr>  
   <tr>
     <td>
       <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
