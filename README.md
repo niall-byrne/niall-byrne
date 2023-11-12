@@ -20,19 +20,19 @@ I'm a software developer interested in continuous improvement.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
-        Pi Portal
+      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
+        Mac Maker
       </a>
     </td>
     <td>
-      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
-        <img alt="Matteus Silva on Pexels" src="./content/images/project.pi_portal.jpg" width="100"/>
+      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
+        <img alt="Philipp Katzenberger on Unsplash" src="./content/images/project.macmaker.jpg" width="100"/>
       </a>
     </td>
     <td>
       <p>    
-        Integrates with Slack, and Logz.io to notify you when your doors open or close. <br>
-        Records motion activated videos with a USB webcam, and sends them to you.
+        A configuration tool for OSX machines. <br>
+        Takes that feeling of dread out of a new system install.
       </p>
     </td>
   </tr>
@@ -53,22 +53,39 @@ I'm a software developer interested in continuous improvement.
         Leverages last.fm to create interactive charts.
       </p>
     </td>
-  </tr>  
+  </tr>
   <tr>
     <td>
-      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
-        Mac Maker
+      <a href="https://github.com/osx-provisioner/collection" target="_blank">
+        OSX Collection
       </a>
     </td>
     <td>
-      <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
-        <img alt="Philipp Katzenberger on Unsplash" src="./content/images/project.macmaker.jpg" width="100"/>
+      <a href="https://github.com/osx-provisioner/collection" target="_blank">
+        <img alt="Kenny Eliason on Unsplash" src="./content/images/collection.mac_maker.jpg" width="100"/>
       </a>
     </td>
     <td>
       <p>    
-        A configuration tool for OSX machines. <br>
-        Takes that feeling of dread out of a new system install.
+        A collection of Ansible roles for <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">Mac Maker</a>.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
+        Pi Portal
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PI-Portal/pi_portal" target="_blank">
+        <img alt="Matteus Silva on Pexels" src="./content/images/project.pi_portal.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        Integrates with Slack, and Logz.io to notify you when your doors open. <br>
+        Records motion activated videos with a USB webcam, and sends them to you.
       </p>
     </td>
   </tr>
