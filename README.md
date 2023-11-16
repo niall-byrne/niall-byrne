@@ -89,6 +89,24 @@ I'm a software developer interested in continuous improvement.
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/niallbyrne-ca/smtp" target="_blank">
+        SMTP
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/niallbyrne-ca/smtp" target="_blank">
+        <img alt="Ali Bakhtiari on Unsplash" src="./content/images/project.smtp.jpg" width="100"/>
+      </a>
+    </td>
+    <td>
+      <p>    
+        For a friend to secure her business email. This wraps <a href="https://github.com/cisagov/postfix-docker" target="_blank">cisagov/postfix-docker</a><br/>  
+        in automation for generating <a href="https://letsencrypt.org/" target="_blank">Let's Encrypt</a> SSL certs and dkim DNS records.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ### Location
