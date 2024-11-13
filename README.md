@@ -10,6 +10,7 @@ I'm a software developer interested in continuous improvement.
 
 ### Interests / Studies
 
+- Rust
 - Golang
 - A dash of ML/AI
 - Music
