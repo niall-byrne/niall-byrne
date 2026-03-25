@@ -21,6 +21,24 @@ I'm a software developer interested in continuous improvement.
 <table>
   <tr>
     <td>
+      <a href="https://github.com/niall-byrne/cross_shopper_backend" target="_blank">
+        Cross Shopper
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/niall-byrne/cross_shopper_backend" target="_blank">
+        <img alt="Franki Chamaki on Unsplash" src="./content/images/project.cross_shopper.jpg" width="100"/>
+      </a>
+    </td>  
+    <td>
+      <p>    
+        A data app for grocery store price scrapers. <br>
+        Push back against Canadian food inflation.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/osx-provisioner/mac_maker" target="_blank">
         Mac Maker
       </a>
